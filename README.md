@@ -270,3 +270,12 @@ This is a machine-test prototype. Potential next steps include:
 - additional provider implementations behind the existing abstraction
 
 The prototype does not claim production readiness or 100% classification accuracy.
+
+
+## Assignment Questions
+
+The answers to Questions 1–14 are available here:
+
+[Candidate Questions & Answers](docs/candidate-questions.md)
+
+Question 15 is demonstrated through the working prototype included in this repository.
